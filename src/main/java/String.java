@@ -22,3 +22,4 @@ class countLettersInString{
 }
 
 //loop through each char and use get() and put()
+// stringName++
