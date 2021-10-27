@@ -5,9 +5,10 @@ public class String {
     }
 }
 
-//pseudocode
+//exercise 1 pseudocode - use map function?
+    // data structure FIFO??
 
-String string = new String
-        for{
-
-                }
+map <String>map = new HashMap<>();
+    map.put("a");
+        map.put("b");
+        map.put("c");
