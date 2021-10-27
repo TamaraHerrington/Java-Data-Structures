@@ -1,14 +1,16 @@
-public class String {
-    @Override
-    public java.lang.String toString() {
-        return super.toString();
-    }
-}
 
 //exercise 1 pseudocode - use map function?
+
+//convert letters in string to characters that can be counted
+
+
     // data structure FIFO??
 
-map <String>map = new HashMap<>();
-    map.put("a");
-        map.put("b");
-        map.put("c");
+//Input: string "Holy Mackerel Batman";
+class countLettersInString{
+    static void characterCount(String stringName){
+
+//turn each letter in the string into a CHAR
+        char[] strArray = stringName.toCharArray();
+    }
+}
